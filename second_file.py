@@ -1,2 +1,2 @@
 # This is the second python file
-# this is thhe second line
+# this is the second line
